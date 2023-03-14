@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Dani from New York.
-I am currently wokring on fun stuff with Rails and Javascript.
+I am currently working on fun stuff with Rails and Javascript.
 I am learning React whoo-hoo!
 
 <!--
