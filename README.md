@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Dani from New York.
+I am currently wokring on fun stuff with Rails and Javascript.
+I am learning React whoo-hoo!
+
 <!--
 **sumaatsu/sumaatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
